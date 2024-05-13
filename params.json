@@ -1,0 +1,8 @@
+{
+    "max_length": 150,
+    "padding_type": "post",
+    "vocab_size": 20000,
+    "embedding_dim": 200,
+    "trunc_type": "post",
+    "oov_tok": "<OOV>"
+}

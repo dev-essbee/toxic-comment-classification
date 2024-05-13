@@ -1,0 +1,8 @@
+*.pdf
+*.zip
+*.vec
+*.npy
+.vscode
+glove.twitter.27B
+models
+prob_models
